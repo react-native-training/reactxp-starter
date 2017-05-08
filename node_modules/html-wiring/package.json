@@ -1,0 +1,30 @@
+{
+  "name": "html-wiring",
+  "version": "1.2.0",
+  "description": "Set of utilities to update HTML files",
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "dom",
+    "wiring",
+    "cheerio"
+  ],
+  "author": "The Yeoman Team",
+  "repository": "yeoman/html-wiring",
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "nsp audit-package"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "detect-newline": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "nsp": "*",
+    "yeoman-assert": "^1.0.0"
+  }
+}

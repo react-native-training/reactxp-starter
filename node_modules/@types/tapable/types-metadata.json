@@ -1,0 +1,22 @@
+{
+    "authors": "e-cloud <https://github.com/e-cloud>",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": 0,
+    "libraryMinorVersion": 2,
+    "typeScriptVersion": "2.0",
+    "libraryName": "tapable",
+    "typingsPackageName": "tapable",
+    "projectName": "http://github.com/webpack/tapable.git",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "master",
+    "globals": [],
+    "declaredModules": [
+        "tapable"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "57464cd166d713b0888b53fb7c09619b5a3c4b311b0bdfa50f0d59501fd17ee0"
+}

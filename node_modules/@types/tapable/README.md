@@ -1,0 +1,17 @@
+# Installation
+> `npm install --save @types/tapable`
+
+# Summary
+This package contains type definitions for tapable (http://github.com/webpack/tapable.git).
+
+# Details
+Files were exported from https://www.github.com/DefinitelyTyped/DefinitelyTyped/tree/master/tapable
+
+Additional Details
+ * Last updated: Fri, 23 Dec 2016 14:14:48 GMT
+ * Library Dependencies: none
+ * Module Dependencies: none
+ * Global values: none
+
+# Credits
+These definitions were written by e-cloud <https://github.com/e-cloud>.

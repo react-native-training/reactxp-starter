@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "dist",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "skipDefaultLibCheck": true,
+        "sourceMap": true,
+        "declaration": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "noFallthroughCasesInSwitch": true,
+        "removeComments": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "lib": [ "es6", "dom" ]
+    },
+    "include": [
+        "src/**/*"
+    ]
+}

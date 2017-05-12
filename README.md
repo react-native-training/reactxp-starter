@@ -15,7 +15,7 @@ with
 ### Building for Web
 
 - Run `npm run web-watch`. This compiles the TypeScript code and recompiles it whenever any files are changed.
-- Open `index.html` in your browser to view the result.
+- Open `dist/index.html` in your browser to view the result.
 
 ### Building for React Native
 

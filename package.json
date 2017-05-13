@@ -5,7 +5,8 @@
 	"scripts": {
     "web-watch": "webpack --progress --colors --watch",
     "rn-watch": "tsc --watch",
-    "start": "node node_modules/react-native/local-cli/cli.js start"
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "install-deps": "npm i"
   },
   "devDependencies": {
     "@types/node": "^7.0.12",
